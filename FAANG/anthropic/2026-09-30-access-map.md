@@ -68,7 +68,6 @@ Takeoff Intel is part of the Anthropic Institute. Its posting explicitly says:
 
 > We're hiring at both junior and senior levels.
 
-The team measures AI R&D capability growth and internal AI-assisted development. The posting asks for evidence such as:
 
 - shipping an evaluation, data product, or research library end to end;
 - running experiments on large language models;
@@ -76,7 +75,6 @@ The team measures AI R&D capability growth and internal AI-assisted development.
 - rapid prototyping;
 - building evaluation harnesses or benchmark infrastructure;
 - building tools or libraries used by researchers;
-- identifying failures in AI-written code.
 
 Location is listed as Remote-Friendly (Travel Required) or San Francisco. The posting uses Anthropic's bachelor's-or-equivalent wording.
 

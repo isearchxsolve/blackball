@@ -49,7 +49,6 @@ The current requisition surface includes, among other things:
 
 - pretraining, reinforcement learning, interpretability, evaluations, research tools, research data, and research infrastructure;
 - inference, distributed systems, storage/transfer, databases, Kubernetes, networking, observability, capacity engineering, and reliability;
-- product engineering for Claude, Claude Code, Android, iOS, enterprise, developer platform, sandboxing, growth, billing, identity, and Labs;
 - compute and data-center engineering, operations, manufacturing, power/cooling, supply chain, and capacity delivery;
 - security engineering, IT, hardware/platform security, detection/response, GRC, and safeguards;
 - applied AI, forward-deployed engineering, customer success, deployment, technical education, and support.
@@ -154,7 +153,6 @@ Current postings expose several organizational nodes directly comparable to codi
 - **Platform → Agentic Systems → Claude Managed Agents** — hosted agent harness plus durable sessions, environments, tools, memory, permissions, credentials and recovery: https://job-boards.greenhouse.io/anthropic/jobs/5395767008
 - **Infrastructure → Developer Productivity → Developer Acceleration** — infrastructure enabling employees to work through agents: https://job-boards.greenhouse.io/anthropic/jobs/5290360008
 - **Developer Productivity → Continuous Integration** — testing, test selection, merge queues, flakes, multi-cloud Kubernetes CI and observability: https://job-boards.greenhouse.io/anthropic/jobs/5073998008
-- **Claude Code → Model Performance** — eval frameworks, research infrastructure, internal tooling and production reliability: https://job-boards.greenhouse.io/anthropic/jobs/5098025008
 - **AI Reliability Engineering (AIRE)** — cross-cutting serving reliability from SDK/network/API layers through accelerators: https://job-boards.greenhouse.io/anthropic/jobs/5113224008
 
 These official requisitions do not name an individual hiring manager. Keep person-level evidence in [authority-edges.tsv](authority-edges.tsv), where a manager/recruiting edge is added only when a public source directly supports it.

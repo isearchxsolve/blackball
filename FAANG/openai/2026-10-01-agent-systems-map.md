@@ -91,7 +91,6 @@ Named systems/problems:
 - Docker/OCI and Kubernetes runners;
 - CI observability;
 - reproducing CI locally;
-- AI-assisted failure analysis, flaky-test debugging, PR triage and automatic remediation.
 
 This is adjacent but organizationally distinct from Codex Core Agents: it works on the development/verification system used by engineers rather than the Codex harness itself.
 

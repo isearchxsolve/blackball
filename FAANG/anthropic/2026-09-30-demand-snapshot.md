@@ -120,7 +120,6 @@ Locations: San Francisco or New York City.
 Source:
 - https://job-boards.greenhouse.io/anthropic/jobs/5017202008
 
-Anthropic describes Labs as an internal accelerator that works between research and product and cites Claude Code and MCP as past examples.
 
 Locations: San Francisco, New York City, or Seattle.
 

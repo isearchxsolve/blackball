@@ -104,7 +104,6 @@ The organization map now has a **separate evidence layer** for layoffs, Washingt
 - [Unique workforce actions with parent-round identity](labor-change/2026-10-14-events.tsv)
 - [Department/team AI and layoff signal crosswalk](org-tree/2026-10-14-labor-ai-org-signals.tsv)
 
-This is **not** an adjustment to the frozen 2,613 software requisitions. A vacancy, a notified job elimination, a completed internal transfer, and an AI-assisted engineering project are different observations.
 
 January 2026 affected-team reports name **AWS Bedrock, Redshift, and ProServe**; June 2026 Amazon-published engineering results describe a **six-engineer Bedrock** project and AI-supported **Prime Video Financial Systems** and **Stores** work. July 2026 involved confirmed **AGI** cuts. October 2026 cuts involved **Stores** and reported **retail engineering / Selling Partner Services**. The cases are attached to named nodes with source-strength and join warnings, not converted into an unsourced count of jobs replaced by AI.
 

@@ -22,7 +22,6 @@ The purpose of this first corpus is to establish the record shape and expose var
 
 - Legal employer: Amazon.com LLC - A03
 - Scope: posting explicitly describes the requisition as serving fungible SDEs across Amazon Ads, LEO, Devices, and Entertainment teams.
-- Stated work: highly available scalable Java cloud services; Tier-1 services; low-latency and fault-tolerant distributed systems; generative-AI-assisted development; cross-team delivery; monitoring, on-call, and continuous improvement.
 - Basic qualifications include 3+ years professional SWE, 2+ years design/architecture, object-oriented design, experience with large-scale/multi-tiered/multithreaded/embedded/distributed software, a programming language, and a bachelor's degree or foreign equivalent in CS, engineering, mathematics, or related field.
 - Published base salary varies by listed location, from $143,700–$194,400 in several markets to $165,200–$223,600 in Sunnyvale.
 - Source: https://www.amazon.jobs/en/jobs/10436989/software-development-engineer-amazon-central-sourcing

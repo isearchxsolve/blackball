@@ -34,12 +34,10 @@ Source:
 
 The CI team owns automated testing/code-quality infrastructure, multi-cloud Kubernetes test execution, test selection, merge queues, branching, flake detection/quarantine, recovery and observability.
 
-### Claude Code → model-performance/evaluation infrastructure
 
 Source:
 - https://job-boards.greenhouse.io/anthropic/jobs/5098025008
 
-The Model Performance Software Engineer role sits on the **Claude Code team** and centers on eval frameworks, research infrastructure, internal tooling, experiment scaling and production reliability.
 
 ### AI Reliability Engineering (AIRE)
 
